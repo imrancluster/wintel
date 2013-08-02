@@ -11,8 +11,8 @@ It has four pages like- home, about, product, contact. Here all product informai
 
 apigee.com
 ==========
-01) After login into apigee.com, added a collcetion it's called "wintels".
-02) Then I added data field like-img, title, description according to json structure.
+01) After login into apigee.com, added a collcetion it's called "wintels".<br />
+02) Then I added data field like-img, title, description according to json structure.<br />
 3) Then I retrieved data usign training rules.
 
 
